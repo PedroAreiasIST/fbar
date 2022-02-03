@@ -1,16 +1,4 @@
-!**************************************************************
-!* AceGen    6.808 Linux (6 Sep 16)                           *
-!*           Co. J. Korelc  2013           3 Feb 22 00:28:35  *
-!**************************************************************
-! User     : Full professional version
-! Notebook : mksfbar
-! Evaluation time                 : 25 s    Mode  : Optimal
-! Number of formulae              : 569     Method: Automatic
-! Subroutine                      : mksfbar size: 9298
-! Total size of Mathematica  code : 9298 subexpressions
-! Total size of Fortran code      : 35332 bytes
 
-!******************* S U B R O U T I N E **********************
 SUBROUTINE mksfbar(v,c,cb,cs,dcsdc,dcsdc2)
 USE SMSUtility
 IMPLICIT NONE
